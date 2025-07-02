@@ -20,18 +20,63 @@ STRATOS is a modular transformation operating system designed to orchestrate fra
 
 | Phase | Function | Co-Pilot |
 |-------|----------|----------|
-| **N**avigate the Need | Signal detection, scoping | OPTRIX, BLOM |
-| **D**esign the Solution | Mapping systems and structure | ARCHYX, SYNTRA |
-| **E**ngineer Prototype | Automation and UI design | ENGENA, KLAY |
-| **P**ilot and Deploy | Execution and rollout | LAUNIX |
-| **TH**: Tune & Harvest | Improvement, insights, reuse | EVOLIX |
+| **N** | Navigate the Need | OPTRIX, BLOM |
+| **D** | Design the Solution | ARCHYX, SYNTRA |
+| **E** | Engineer Prototype | ENGENA, KLAY |
+| **P** | Pilot and Deploy | LAUNIX |
+| **TH**| Tune & Harvest | EVOLIX |
 
 ---
 
-## 🧠 Learn More
+## 🔄 STRATOS Modular Orchestration – Diagram
 
-This `index.md` anchors the STRATOS ecosystem for public discovery. Future additions will include:
+```mermaid
+graph TD
+    STRATOS["🌀 STRATOS<br/>Strategic Operating System for Transformation, Orchestration & Scale"]
 
-- Project roadmaps
-- Visual framework maps
-- Agent prompt architecture
+    %% Core Pillars
+    STRATOS --> SYNAPSE["🧠 SYNAPSE<br/>Agent Engine"]
+    STRATOS --> SYNTRA["🧩 SYNTRA<br/>Strategic Thinking"]
+    STRATOS --> KLAY["🎨 KLAY<br/>UI/UX Toolkit"]
+    STRATOS --> BLOM["🌱 BLOM<br/>Signal Scout"]
+    STRATOS --> RIDEPLANR["🧭 RIDEPLANR<br/>Contextual Assistant"]
+
+    %% Lifecycle Mapping
+    SYNAPSE --> OPTRIX["🔎 OPTRIX (N)"]
+    SYNAPSE --> ARCHYX["🧠 ARCHYX (D)"]
+    SYNAPSE --> ENGENA["🛠️ ENGENA (E)"]
+    SYNAPSE --> LAUNIX["🚀 LAUNIX (P)"]
+    SYNAPSE --> EVOLIX["📈 EVOLIX (TH)"]
+
+    %% Phase Mapping
+    BLOM --> OPTRIX
+    SYNTRA --> ARCHYX
+    KLAY --> ENGENA
+
+    %% Styling: High contrast text colors
+    style STRATOS fill:#f5f5f5,stroke:#263238,stroke-width:2px,color:#000
+    style SYNAPSE fill:#b2ebf2,stroke:#006064,stroke-width:2px,color:#000
+    style SYNTRA fill:#dcedc8,stroke:#33691e,stroke-width:2px,color:#000
+    style KLAY fill:#f8bbd0,stroke:#880e4f,stroke-width:2px,color:#000
+    style BLOM fill:#d7ccc8,stroke:#4e342e,stroke-width:2px,color:#000
+    style RIDEPLANR fill:#ffe082,stroke:#ff6f00,stroke-width:2px,color:#000
+
+    style OPTRIX fill:#e0f7fa,color:#000
+    style ARCHYX fill:#e8f5e9,color:#000
+    style ENGENA fill:#f3e5f5,color:#000
+    style LAUNIX fill:#fff3e0,color:#000
+    style EVOLIX fill:#ffebee,color:#000
+```
+
+---
+
+## 📂 Core Docs
+
+- [Roadmap](./roadmap.md)  
+- [Glossary](./docs/glossary.md)  
+- [Framework Map](./docs/framework-map.md)  
+- [Lifecycle (N-DEPTH)](./docs/n-depth.md)
+
+---
+
+> STRATOS is where ideas become infrastructure.

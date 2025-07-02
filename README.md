@@ -31,8 +31,6 @@ STRATOS follows the **N-DEPTH** model:
 4. **P**ilot and Deploy  
 5. **TH**: Tune, Harvest, and Scale
 
-This allows transformation to move from awareness → design → execution → evolution — all powered by co-pilot logic and agent assistance.
-
 ---
 
 ## 💡 Project Status
@@ -45,5 +43,7 @@ As implementation progresses across agents, toolkits, and execution layers, this
 
 ## 🧠 Learn More
 
-- [SYNAPSE](https://github.com/hadzwanihasni/synapse)  
-- Project Journal and Strategic Layer Map — coming soon
+- [SYNAPSE Framework](https://github.com/hadzwanihasni/synapse)  
+- [Glossary](./docs/glossary.md)  
+- [Roadmap](./roadmap.md)
+
