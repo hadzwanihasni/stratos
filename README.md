@@ -47,3 +47,16 @@ As implementation progresses across agents, toolkits, and execution layers, this
 - [Glossary](./docs/glossary.md)  
 - [Roadmap](./roadmap.md)
 
+---
+
+---
+
+## 📄 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+
+You are free to share and adapt the materials for **non-commercial use**, with attribution.  
+No warranties or guarantees are provided. Commercial use requires prior permission.
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
